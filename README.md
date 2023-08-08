@@ -1,6 +1,7 @@
-# Airbnb-Recommendation-System
+![airbnb_image](https://github.com/jtjohn172/Airbnb-Recommendation-System/blob/main/images/airbnb-image.jpg)
 
-# **IMAGE HERE**
+<h1 align="center">Airbnb Recommendation System</h1>
+
 
 ## Business Understanding
 * Include stakeholder and business questions
