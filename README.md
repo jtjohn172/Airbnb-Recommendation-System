@@ -14,5 +14,12 @@
 ## Conclusion
 * Summary of conclusions / recommendations
 ## Repository File Structure
-* (nice-to-have not need-to-have)
-
+```
+├── data
+    ├── airbnb_data.csv.zip
+├── images
+├── .gitignore
+├── Airbnb_recsys_analysis.ipynb
+├── LICENSE
+└── README.md
+```
