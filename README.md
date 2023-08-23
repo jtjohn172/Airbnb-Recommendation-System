@@ -2,6 +2,9 @@
 
 <h1 align="center">Airbnb Recommendation System</h1>
 
+## Disclosure
+This repository is dedicated solely to academic pursuits. It maintains no affiliations with any corporations, and does not house or process personally identifiable information (PII) associated with these entities. All users and contributors are urged to adhere to strict data protection guidelines and not to share or solicit sensitive data within this platform.
+
 
 ## Overview Of Business Problem
 Airbnb is aiming to leverage the surge in travel/tourism to Athens, Greece. Leadership would like to identify key indicators that forecast a positive customer experience at a property. By determining these predictors, they hope to align property recommendations more closely with customer preferences which, we predict, will enhance overall satisfaction.
